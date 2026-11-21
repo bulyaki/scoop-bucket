@@ -1,11 +1,11 @@
 {
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "Customize the Hermes desktop app icon and persist it across updates",
   "homepage": "https://github.com/bulyaki/hermes-icon",
   "license": "MIT",
-  "url": "https://github.com/bulyaki/hermes-icon/releases/download/v0.1.7/hermes-icon-0.1.7.tar.gz",
-  "hash": "459786af32d4ee44c25a102eaf217d170db5b1511c88a5af5b7432768e6ea860",
-  "extract_dir": "hermes-icon-0.1.7",
+  "url": "https://github.com/bulyaki/hermes-icon/releases/download/v0.1.8/hermes-icon-0.1.8.tar.gz",
+  "hash": "4bb542d744031e1dad3e5cd8897797e28e39859f67fca31d32af6bfeb4dcc97c",
+  "extract_dir": "hermes-icon-0.1.8",
   "bin": "bin\\hermes-icon.cmd",
   "post_install": [
     "& \"$dir\\bin\\hermes-icon.cmd\" --bootstrap"
